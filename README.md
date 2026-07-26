@@ -23,3 +23,15 @@ This repo tracks my daily DSA practice, organized topic-wise. Each solution incl
 
 ## 🚀 Goal
 Solving consistently to build strong fundamentals and an active GitHub profile .
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg1712/DSA-IN-C/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg1712/DSA-IN-C/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
